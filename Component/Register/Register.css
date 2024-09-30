@@ -1,0 +1,18 @@
+#con{
+
+    background-image: url("../../Assets/bg-3.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+  
+
+}
+#bt{
+     display: flex;
+    justify-content: right;
+
+    padding:10px 20px
+}
+
+#wel1{
+    margin-top: -50px;
+}
